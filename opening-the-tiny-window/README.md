@@ -6,6 +6,8 @@ This is prototype code, it is not production code. It uses a game loop model to 
 
 The main "trick" of the prototype is to use the same `Effect` code to process the OpenGL vertices as the audio floats. This keeps the graphics representative, as well as nice and snappy (as it processes far fewer vertices than audio samples).
 
+[![Opening the tiny window](../img/dynamic-range.jpg)](http://arthurcarabott.com/mui-dynamic-range)
+
 ## Installation
 
 ### Requirements

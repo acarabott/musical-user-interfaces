@@ -4,6 +4,8 @@ A prototype interface programming synthesizer envelopes using audio signals (e.g
 
 **Warning:** This is prototype code, it is not production code.
 
+[![Envelopes by example](../img/envelope.jpg)](http://arthurcarabott.com/mui-envelope)
+
 ## Requirements
 
 [SuperCollider](http://supercollider.github.io/)
