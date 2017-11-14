@@ -10,6 +10,8 @@ These projects were designed and built in 8 weeks, along with two other projects
 
 I am putting the code online because enough people asked for it, not because I want people to fork and use it.
 
+While it may not serve as an example of how to code for well production, it may serve as example of how to code well when prototyping: optimising productivity, flexibility, getting things done... rather than performance, memory usage and code re-use.
+
 ## Another request
 
 Please build on these ideas! Whether you are a hobbyist of a *serious commercial audio company*, I invite you to use them in your projects. Credit and citations are a nice courtesy, and please drop me a line if you do make something [arthur@arthurcarabott.com](mailto:arthur@arthurcarabott.com).
